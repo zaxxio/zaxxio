@@ -1,6 +1,6 @@
 ### Hi there, I'm Partha Sutradhar - aka [zaXxio][website] 👋
 
-[![Website](https://img.shields.io/website?label=biztark.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://biztark.com)
+[![Website](https://img.shields.io/website?label=biztark.com&style=for-the-badge&url=https%3A%2F%biztark.com)](https://biztark.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/biztark?color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/zaxxio)
 
 ## I'm a Software Engineer and Constant Learner !!
@@ -17,11 +17,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="biztark.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="biztark | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="biztark | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="biztark | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="biztark | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -60,27 +60,17 @@
 - [Neural Network : Network Visualization Finale (2020)](https://youtu.be/UHrTwP2mi6s)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtu.be/6iXRNkJVGvU)
 
 ---
 
-
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://biztark.com
+[course]: https://youtu.be/6iXRNkJVGvU
+[twitter]: https://twitter.com/
+[youtube]: (https://youtu.be/6iXRNkJVGvU)
+[instagram]: https://instagram.com
+[linkedin]: https://linkedin.com
+[webdevplaylist]: https://youtu.be/6iXRNkJVGvU?list=PLbF_axHimglohB_WoBaeQ8ww1vPUh3Ik5
+[jsplaylist]: https://youtu.be/6iXRNkJVGvU?list=PLbF_axHimglohB_WoBaeQ8ww1vPUh3Ik5
+[cssplaylist]: https://youtu.be/6iXRNkJVGvU?list=PLbF_axHimglohB_WoBaeQ8ww1vPUh3Ik5
+[reactplaylist]: https://youtu.be/6iXRNkJVGvU?list=PLbF_axHimglohB_WoBaeQ8ww1vPUh3Ik5
