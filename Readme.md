@@ -9,7 +9,7 @@ Hello, my name is Partha Sutradhar and I am a bachelor student at American Inter
 ## I'm a Software Engineer and an Constant Learner !!
 
 - 🔭 I just launched my first youtube channel : [Build Neural Network with Java!][course]
-- 🌱 I’m currently researching on neural networks 🤣
+- 🌱 I’m currently researching on neural networks & hybrid systems
 - 👯 I’m looking deep inside Machine Learning & Artificial Intelligence
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 🥅 2021 Goals: Contribute more to Open Source projects
