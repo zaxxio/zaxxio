@@ -15,19 +15,19 @@
 
 ```javascript
 const zaXxio = {
-  pronouns: "alias" | "engineer",
-  code: ["Javascript", "Typescript", "HTML", "CSS", "C#", "Python", "Java", "Golang", "PHP"],
-  tools: ["React", "Redux", "NodeJS", "Storybook", "Styled-Components", "Docker", "Android SDK", "Spring Framework"],
+  pronouns: "partha" | "sutradhar",
+  code: [Javascript, Typescript, HTML, CSS, C#, Python, Java, Golang, PHP],
+  tools: [React, Redux, NodeJS, Storybook, Styled-Components, Docker, Android-SDK, Spring-CLI],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "Biztark",
                         speaker: "Bengali",
                         mentor: "Yikes!!"
                    },
-  language : ["English", "Bengali", "Hindi"],
-  framework : ["spring", "asp.net core", "dl4j", "rl4j", "tensorflow", "pytorch", "bulma", "rabitmq", "apache spark"],
+  language : [English, Bengali, Hindi],
+  framework : [spring, asp.net-core, dl4j, rl4j, tensorflow, pytorch, bulma, rabitmq, apache-spark, open-box],
   challenge: "I am currently developing new deep learning framework from scratch.",
-  favorites : ["Kacchi", "Movie", "Coding"]
+  favorites : [Kacchi, Movie, Coding]
 }
 ```
 
