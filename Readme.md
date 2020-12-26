@@ -16,7 +16,7 @@
 ```javascript
 const zaXxio = {
   pronouns: "partha" | "sutradhar",
-  code: [Javascript, Typescript, HTML, CSS, C#, Python, Java, Golang, PHP],
+  code: [Javascript, Typescript, HTML, CSS, C++, Python, Java, Golang, PHP],
   tools: [React, Redux, NodeJS, Storybook, Styled-Components, Docker, Android-SDK, Spring-CLI],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
