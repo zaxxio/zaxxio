@@ -91,7 +91,7 @@ const zaXxio = {
 
 ---
 
-[website]: https://biztark.com
+[website]: https://github.com/zaxxio
 [course]: https://youtu.be/6iXRNkJVGvU
 [twitter]: https://twitter.com/
 [youtube]: (https://youtu.be/6iXRNkJVGvU)
