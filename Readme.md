@@ -3,30 +3,31 @@
 [![Website](https://img.shields.io/website?label=biztark.com&style=for-the-badge&url=https%3A%2F%biztark.com)](https://biztark.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/biztark?color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/zaxxio)
 
-## I'm a Software Engineer and Constant Learner !!
+## I'm a Software Engineer and an Constant Learner !!
 
-- 🔭 I just launched my first youtube channel : [Build Neural Network with Java!][course]!
+- 🔭 I just launched my first youtube channel : [Build Neural Network with Java!][course]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I like to code at morning.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const bangladeshi = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, C#, Python, Java],
-  tools: [React, Redux, NodeJS, Storybook, Styled-Components, Docker, Android, Spring Framework, Deep Learning],
+const zaXxio = {
+  pronouns: "alias" | "engineer",
+  code: ["Javascript", "Typescript", "HTML", "CSS", "C#", "Python", "Java", "Golang", "PHP"],
+  tools: ["React", "Redux", "NodeJS", "Storybook", "Styled-Components", "Docker", "Android SDK", "Spring Framework"],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "Biztark",
                         speaker: "Bengali",
-                        mentor: "GoodBye!!"
-                      },
-  language : [English, Bengali, Hindi],
+                        mentor: "Yikes!!"
+                   },
+  language : ["English", "Bengali", "Hindi"],
+  framework : ["spring", "asp.net core", "dl4j", "rl4j", "tensorflow", "pytorch", "bulma", "rabitmq", "apache spark"],
   challenge: "I am currently developing new deep learning framework from scratch.",
-  favorites : "eating"
+  favorites : ["Kacchi", "Movie", "Coding"]
 }
 ```
 
