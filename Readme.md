@@ -9,8 +9,9 @@ Hello, my name is Partha Sutradhar and I am a bachelor student at American Inter
 ## I'm a Software Engineer and an Constant Learner !!
 
 - 🔭 I just launched my first youtube channel : [Build Neural Network with Java!][course]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently researching on neural networks 🤣
+- 👯 I’m looking deep inside Machine Learning & Artificial Intelligence
+- 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like to code at morning.
 
@@ -20,7 +21,7 @@ Hello, my name is Partha Sutradhar and I am a bachelor student at American Inter
 
 ```javascript
 const zaXxio = {
-  pronouns: "partha" | "sutradhar",
+  pronouns: "programmer" | "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, C++, Python, Java, Golang, PHP],
   tools: [React, Redux, NodeJS, Storybook, Styled-Components, Docker, Android-SDK, Spring-CLI],
   architecture: ["microservices", "event-driven", "design system pattern"],
@@ -52,6 +53,22 @@ const zaXxio = {
 
 ### Languages and Tools:
 
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][webdevplaylist]
@@ -73,6 +90,12 @@ const zaXxio = {
 
 <br />
 <br />
+
+---
+
+![Partha's Github Stats](https://github-readme-stats.vercel.app/api?username=zaxxio&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaxxio&hide=TeX&layout=compact)
 
 ---
 
