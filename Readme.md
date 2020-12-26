@@ -1,6 +1,7 @@
 
-### Hi there, I'm Partha Sutradhar - aka [zaXxio][website] 👋 ![](https://komarev.com/ghpvc/?username=zaxxio&label=PROFILE+VIEWS)
+### Hi there, I'm Partha Sutradhar - aka [zaXxio][website] 👋 
 
+![](https://komarev.com/ghpvc/?username=zaxxio&label=PROFILE+VIEWS)
 
 [![Website](https://img.shields.io/website?label=biztark.com&style=for-the-badge&url=https%3A%2F%biztark.com)](https://biztark.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/biztark?color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/zaxxio)
