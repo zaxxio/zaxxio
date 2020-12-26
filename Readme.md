@@ -1,6 +1,8 @@
 
 ### Hi there, I'm Partha Sutradhar - aka [zaXxio][website] 👋 
 
+Hello, my name is Partha Sutradhar and I am a bachelor student at American Internation University-Bangladesh majoring in Computer Science Engineering. I am a full-stack software developer with 1 years of experience working as a Software Engineer. My technology stack involves Java/J2EE, Quarkus, Spring, Maven, Hibernate, MySQL, Javascript, Backbone.js, React, and HTML/CSS/Bootstrap/Bulma. Besides programming, I have an immense interest in music.
+
 [![Website](https://img.shields.io/website?label=biztark.com&style=for-the-badge&url=https%3A%2F%biztark.com)](https://biztark.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/biztark?color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/zaxxio)
 
