@@ -191,7 +191,12 @@ const zaXxio = {
 <br />
 
 ---
-              
+
+[[params.social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.co.in/citations?user=USERID"
+
 
 ### 📺 Latest YouTube Videos
 
@@ -219,6 +224,5 @@ const zaXxio = {
 [cssplaylist]: https://youtu.be/6iXRNkJVGvU?list=PLbF_axHimglohB_WoBaeQ8ww1vPUh3Ik5
 [reactplaylist]: https://youtu.be/6iXRNkJVGvU?list=PLbF_axHimglohB_WoBaeQ8ww1vPUh3Ik5
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="partha-sutradhar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/partha-sutradhar?trk=profile-badge">Partha Sutradhar</a></div>
+
               
