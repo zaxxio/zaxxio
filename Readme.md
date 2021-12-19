@@ -192,10 +192,8 @@ const zaXxio = {
 
 ---
 
-[[params.social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.in/citations?user=USERID"
+### 📺 Publications
+- [Multi-Modal Case Study on MRI Brain Tumor Detection Using Support Vector Machine, Random Forest, Decision Tree, K-Nearest Neighbor, Temporal Convolution & Transfer Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=363oEAQAAAAJ&citation_for_view=363oEAQAAAAJ:u5HHmVD_uO8C)
 
 
 ### 📺 Latest YouTube Videos
