@@ -76,19 +76,19 @@ const zaXxio = {
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Golang
     </td>
@@ -100,39 +100,39 @@ const zaXxio = {
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="48" height="48" alt="Bulma" />
       </a>
-      <br>Sass
+      <br>Bulma
     </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -144,15 +144,15 @@ const zaXxio = {
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
       </a>
-      <br>Debian
+      <br>Ubuntu
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/redhat/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="RHEL" />
       </a>
-      <br>RHEL
+      <br>Spring Boot
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -162,7 +162,7 @@ const zaXxio = {
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
