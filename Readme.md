@@ -19,7 +19,7 @@ Hello, my name is Partha Sutradhar and I have completed BSc in Computer Science 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const zaXxio = {
+const partho = {
   pronouns: "programmer" | "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, C++, Python, Java, Golang, PHP],
   tools: [React, Redux, NodeJS, Storybook, Styled-Components, Docker, Android-SDK, Spring-CLI],
