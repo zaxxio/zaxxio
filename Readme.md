@@ -194,6 +194,8 @@ const partho = {
 ### 📺 Publications
 - [Multi-Modal Case Study on MRI Brain Tumor Detection Using Support Vector Machine, Random Forest, Decision Tree, K-Nearest Neighbor, Temporal Convolution & Transfer Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=363oEAQAAAAJ&citation_for_view=363oEAQAAAAJ:u5HHmVD_uO8C)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="partha-sutradhar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/partha-sutradhar?trk=profile-badge">Partha Sutradhar</a></div>
+              
 
 ### 📺 Latest YouTube Videos
 
