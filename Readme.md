@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Partha Sutradhar 👋 
 
-I'm a Software Engineer with a strong experience that involves in JVM/CLR based technology and machine learning. My technology stack involves Java/J2EE, Quarkus, Spring, Maven, Hibernate, MySQL, Javascript, Backbone.js, React, and HTML/CSS/Bootstrap/Bulma. Besides programming, I have an immense interest in music.
+I'm a Software Engineer with a strong experience that involves in JVM/CLR based technology and machine learning. My technology stack involves Java/J2EE, Quarkus, Spring, Maven, Hibernate, MySQL, Javascript, Backbone.js, React, and HTML/CSS/Bootstrap/Bulma. Besides programming, I have an immense amount og interest in music.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/biztark?color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/zaxxio)
 
