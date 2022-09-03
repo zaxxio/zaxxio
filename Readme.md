@@ -14,8 +14,6 @@ I'm a Software Engineer with a strong experience that involves in JVM/CLR based 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like to code at morning.
 
-![](https://komarev.com/ghpvc/?username=zaxxio&label=PROFILE+VIEWS)
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
