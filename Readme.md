@@ -19,24 +19,20 @@ I'm a Software Engineer with a strong experience that involves in JVM/CLR based 
 ```javascript
 const partho = {
   pronouns: "programmer" | "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, C++, Python, Java, Golang, PHP],
-  tools: [React, Redux, NodeJS, Storybook, Styled-Components, Docker, Android-SDK, Spring-CLI],
+  code: [ C++,Python, Java, Golang],
+  tools: [Docker, Android-SDK, Spring-CLI],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "Biztark",
                         speaker: "Bengali",
-                        mentor: "Yikes!!"
+                        mentor: "  "
                    },
   language : [English, Bengali, Hindi],
-  framework : [spring, asp.net-core, dl4j, rl4j, tensorflow, pytorch, bulma, rabitmq, apache-spark, open-box],
+  framework : [spring, asp.net-core, dl4j, rl4j, tensorflow, pytorch, bulma, rabitmq],
   challenge: "I am currently developing new deep learning framework from scratch.",
   favorites : [Kacchi, Movie, Coding]
 }
 ```
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -65,7 +61,7 @@ const partho = {
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Fav Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -191,33 +187,10 @@ const partho = {
 
 ### 📺 Publications
 - [Multi-Modal Case Study on MRI Brain Tumor Detection Using Support Vector Machine, Random Forest, Decision Tree, K-Nearest Neighbor, Temporal Convolution & Transfer Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=363oEAQAAAAJ&citation_for_view=363oEAQAAAAJ:u5HHmVD_uO8C)
-              
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Neural Network : Activation Function (2020)](https://youtu.be/6iXRNkJVGvU)
-- [Neural Network : MLDataSet (2020)](https://youtu.be/U1RH2b-c9sA)
-- [Neural Network : Connection & Neuron (2020)](https://youtu.be/th-oV22BV9o)
-- [Neural Network : NeuralNetwork Impl (2020)](https://youtu.be/z7mlVKewQ9E)
-- [Neural Network : Xor Test Impl (2020)](https://youtu.be/d2biNh__96U)
-- [Neural Network : Network Visualization Finale (2020)](https://youtu.be/UHrTwP2mi6s)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtu.be/6iXRNkJVGvU)
 
 ---
 
 [website]: https://github.com/zaxxio
-[course]: https://youtu.be/6iXRNkJVGvU
-[twitter]: https://twitter.com/
-[youtube]: (https://youtu.be/6iXRNkJVGvU)
-[instagram]: https://instagram.com
 [linkedin]: https://linkedin.com
-[webdevplaylist]: https://youtu.be/6iXRNkJVGvU?list=PLbF_axHimglohB_WoBaeQ8ww1vPUh3Ik5
-[jsplaylist]: https://youtu.be/6iXRNkJVGvU?list=PLbF_axHimglohB_WoBaeQ8ww1vPUh3Ik5
-[cssplaylist]: https://youtu.be/6iXRNkJVGvU?list=PLbF_axHimglohB_WoBaeQ8ww1vPUh3Ik5
-[reactplaylist]: https://youtu.be/6iXRNkJVGvU?list=PLbF_axHimglohB_WoBaeQ8ww1vPUh3Ik5
-
 
               
