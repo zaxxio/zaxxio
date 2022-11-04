@@ -4,7 +4,7 @@
 I'm a Software Engineer with a strong experience that involves in JVM/CLR based technology and machine learning.
 Besides programming, I have an immense amount og interest in music.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/biztark?color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/zaxxio)
+![](https://komarev.com/ghpvc/?username=zaxxio)
 
 ## I'm a Software Engineer and an Constant Learner !!
 
