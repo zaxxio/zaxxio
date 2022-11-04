@@ -191,7 +191,5 @@ const partho = {
 
 ---
 
-[website]: https://github.com/zaxxio
-[linkedin]: https://linkedin.com
 
               
