@@ -8,7 +8,7 @@ Besides programming, I have an immense amount og interest in music.
 
 ## I'm a Software Engineer and an Constant Learner !!
 
-- 🔭 I just launched my first youtube channel : [Build Neural Network with Java!][course]
+<!-- - 🔭 I just launched my first youtube channel : [Build Neural Network with Java!][course] -->
 - 🌱 I’m currently researching on neural networks & hybrid systems
 - 👯 I’m looking deep inside Machine Learning & Artificial Intelligence
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
