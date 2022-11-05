@@ -65,9 +65,9 @@ const partho = {
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>Java&nbsp;
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -83,9 +83,9 @@ const partho = {
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>Jsonnet
+      <br>C#&nbsp;(Core)
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
