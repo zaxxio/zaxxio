@@ -65,7 +65,7 @@ const partho = {
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg width="48" height="48" alt="C#" />
+        <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>Java&nbsp;
     </td>
